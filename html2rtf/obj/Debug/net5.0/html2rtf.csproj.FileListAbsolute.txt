@@ -1,0 +1,16 @@
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.csproj.AssemblyReference.cache
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.AssemblyInfoInputs.cache
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.AssemblyInfo.cs
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.csproj.CoreCompileInputs.cache
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\bin\Debug\net5.0\html2rtf.exe
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\bin\Debug\net5.0\html2rtf.deps.json
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\bin\Debug\net5.0\html2rtf.runtimeconfig.json
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\bin\Debug\net5.0\html2rtf.runtimeconfig.dev.json
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\bin\Debug\net5.0\html2rtf.dll
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\bin\Debug\net5.0\ref\html2rtf.dll
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\bin\Debug\net5.0\html2rtf.pdb
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.dll
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\ref\html2rtf.dll
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.pdb
+C:\Users\08115094943\Desktop\Dev\C#\html2rtf\html2rtf\obj\Debug\net5.0\html2rtf.genruntimeconfig.cache
